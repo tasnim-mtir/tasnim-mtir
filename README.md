@@ -129,13 +129,10 @@ IBM-certified in **AI Engineering** and **RAG + Agentic AI**, with hands-on expe
 ## ☕ Let’s Connect
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+<a href="https://www.linkedin.com/in/tasnim-mtir-32910b257/" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/Tesnim-Mtir" target="_blank">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://YOUR-PORTFOLIO/" target="_blank">
+<a href="https://portfolio-7gg8.vercel.app/" target="_blank">
   <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-6A5ACD?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
