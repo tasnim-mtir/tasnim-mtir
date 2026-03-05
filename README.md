@@ -34,7 +34,7 @@ IBM-certified in **AI Engineering** and **RAG + Agentic AI**, with hands-on expe
 
 ## 🎓 Education
 - **Engineering Degree in Artificial Intelligence and Data Science** — ESPRIT  
-- **Bachelor’s Degree in Computer Systems Engineering**
+- **Bachelor’s Degree in Computer Systems Engineering** - IsiMa
 
 ---
 
