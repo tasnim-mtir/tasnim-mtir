@@ -108,19 +108,6 @@ IBM-certified in **AI Engineering** and **RAG + Agentic AI**, with hands-on expe
 
 ---
 
-## 📈 GitHub Stats (animated & clean)
-<div align="center">
-
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tesnim-Mtir&show_icons=true&theme=tokyonight)
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tesnim-Mtir&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
 ## 🏆 Hackathons & Certifications
 ### 🥇 Achievements
 - **1st Place — Camera AI Hackathon**
