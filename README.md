@@ -38,7 +38,7 @@ IBM-certified in **AI Engineering** and **RAG + Agentic AI**, with hands-on expe
 
 ---
 
-## 🧩 Tech Stack (AI-first)
+## 🧩 Tech Stack 
 ### 🧠 Machine Learning & Deep Learning
 ![Transformers](https://img.shields.io/badge/Transformers-BERT%20%7C%20GPT-6A5ACD?style=for-the-badge)
 ![CNNs](https://img.shields.io/badge/CNNs-Computer%20Vision-A78BFA?style=for-the-badge)
